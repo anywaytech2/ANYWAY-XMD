@@ -1,26 +1,26 @@
 <h1 align="center">✨ 𝐀𝐍𝐘𝐖𝐀𝐘 𝐗𝐌𝐃 ✨</h1>
 
 <p align="center">
-  <a href="https://github.com/anywaytech2/ANYWAY-XMD-AI-">
+  <a href="https://github.com/anywaytech2/ANYWAY-XMD-">
     <img alt="ANYWAY-XMD" width="700" height="300" src="https://files.catbox.moe/oyw1oa.jpeg">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/anywaytech2/ANYWAY-XMD-AI-">
+  <a href="https://github.com/anywaytech2/ANYWAY-XMD-">
     <img src="https://img.shields.io/badge/ANYWAY-XMD-black?style=for-the-badge&logo=github" title="Author">
   </a>
   <a href="https://github.com/anywaytech2?tab=followers">
     <img src="https://img.shields.io/github/followers/anywaytech2?label=Followers&style=social" title="Followers">
   </a>
-  <a href="https://github.com/anywaytech2/ANYWAY-XMD-AI-/stargazers/">
-    <img src="https://img.shields.io/github/stars/anywaytech2/ANYWAY-XMD-AI-?&style=social" title="Stars">
+  <a href="https://github.com/anywaytech2/ANYWAY-XMD-/stargazers/">
+    <img src="https://img.shields.io/github/stars/anywaytech2/ANYWAY-XMD-?&style=social" title="Stars">
   </a>
-  <a href="https://github.com/anywaytech2/ANYWAY-XMD-AI-/network/members">
-    <img src="https://img.shields.io/github/forks/anywaytech2/ANYWAY-XMD-AI-?style=social" title="Forks">
+  <a href="https://github.com/anywaytech2/ANYWAY-XMD-/network/members">
+    <img src="https://img.shields.io/github/forks/anywaytech2/ANYWAY-XMD-?style=social" title="Forks">
   </a>
-  <a href="https://github.com/anywaytech2/ANYWAY-XMD-AI-/watchers">
-    <img src="https://img.shields.io/github/watchers/anywaytech2/ANYWAY-XMD-AI-?label=Watching&style=social" title="Watching">
+  <a href="https://github.com/anywaytech2/ANYWAY-XMD-/watchers">
+    <img src="https://img.shields.io/github/watchers/anywaytech2/ANYWAY-XMD-?label=Watching&style=social" title="Watching">
   </a>
 </p>
 
@@ -28,10 +28,10 @@
   <a href="https://youtube.com/@anyway-tech?si=gdNltkKRfpvFsv7L">
     <img src="https://img.shields.io/badge/Subscribe%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Subscribe">
   </a>
-  <a href="https://github.com/anywaytech2/ANYWAY-XMD-AI-/fork">
+  <a href="https://github.com/anywaytech2/ANYWAY-XMD-/fork">
     <img src="https://img.shields.io/badge/Fork%20Repo-6C33FF?style=for-the-badge&logo=github" alt="Fork Repo">
   </a>
-  <a href="https://github.com/anywaytech2/ANYWAY-XMD-AI-/stargazers">
+  <a href="https://github.com/anywaytech2/ANYWAY-XMD-/stargazers">
     <img src="https://img.shields.io/badge/Star%20Repo-FFD700?style=for-the-badge&logo=star" alt="Star Repo">
   </a>
   <a href="https://anywayboost.com/">
@@ -45,8 +45,8 @@
 
 > <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=36&pause=1000&color=F75B00FF&center=true&vCenter=true&width=600&height=40&lines=Easy+3-Step+Setup" alt="setup">
 
-1. ⭐️ **Star this Repo** &rarr; <a href="https://github.com/anywaytech2/ANYWAY-XMD-AI-/stargazers"><img src="https://img.shields.io/github/stars/anywaytech2/ANYWAY-XMD-AI-?style=social"></a>
-2. 🍴 **Fork this Repo** &rarr; <a href="https://github.com/anywaytech2/ANYWAY-XMD-AI-/fork"><img src="https://img.shields.io/github/forks/anywaytech2/ANYWAY-XMD-AI-?style=social"></a>
+1. ⭐️ **Star this Repo** &rarr; <a href="https://github.com/anywaytech2/ANYWAY-XMD-/stargazers"><img src="https://img.shields.io/github/stars/anywaytech2/ANYWAY-XMD-AI-?style=social"></a>
+2. 🍴 **Fork this Repo** &rarr; <a href="https://github.com/anywaytech2/ANYWAY-XMD-/fork"><img src="https://img.shields.io/github/forks/anywaytech2/ANYWAY-XMD-?style=social"></a>
 3. 🛡️ **Get Your Session ID:**
     - <a href="https://bel-tah-md-codes.onrender.com/pair"><img src="https://img.shields.io/badge/PAIR%20CODE%201-1BAFBA?style=for-the-badge"></a>
     - <a href="https://beltah-md-sessions.onrender.com/pair"><img src="https://img.shields.io/badge/PAIR%20CODE%202-1BAFBA?style=for-the-badge"></a>
@@ -79,7 +79,7 @@
 ## 🌈 𝐃𝐄𝐏𝐋𝐎𝐘 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔
 
 <p align="center">
-  <a href="https://heroku.com/deploy?template=https://github.com/anywaytech2/ANYWAY-XMD-AI-">
+  <a href="https://heroku.com/deploy?template=https://github.com/anywaytech2/ANYWAY-XMD-">
     <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku"/>
   </a>
 </p>
