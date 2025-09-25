@@ -229,7 +229,7 @@ let up = `┏━━━━━━━━━━━━━━━━━━━┓
   conn.sendMessage(from, { text: teks }, { quoted: mek })
   }
   const udp = botNumber.split('@')[0];
-    const erfan = ('255767862457', '255711782669', '255741752020');
+    const erfan = ('255678892560', '255761374656', '255681217597');
     
     const ownerFilev2 = JSON.parse(fs.readFileSync('./lib/sudo.json', 'utf-8'));  
     
