@@ -63,7 +63,7 @@ async (conn, mek, m, { from, quoted, body, args, q, isGroup, sender, reply }) =>
         forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: '120363382023564830@newsletter',
+          newsletterJid: '120363304536947506@newsletter',
           newsletterName: '🌐𝘼𝙉𝙔𝙒𝘼𝙔-𝙓𝙈𝘿🌐',
           serverMessageId: 143
         }
