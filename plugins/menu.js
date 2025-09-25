@@ -12,7 +12,7 @@ const quotedContact = {
   },
   message: {
     contactMessage: {
-      displayName: "NOVA XMD VERIFIED ✅",
+      displayName: "ANYWAY XMD VERIFIED ✅",
       vcard: `BEGIN:VCARD
 VERSION:3.0
 FN:B.M.B VERIFIED ✅
@@ -39,9 +39,9 @@ cmd({
 
     let dec =  `
 ═══════════════════════
-> 🌟  *𝗡𝗢𝗩𝗔-𝗫𝗠𝗗 𝗕𝗢𝗧* 🌟
+> 🌟  *𝘼𝙉𝙔𝙒𝘼𝙔-𝙓𝙈𝘿 𝗕𝗢𝗧* 🌟
 > *Version*: 8.1.0 |
-> *DEVELOPED BY NOVA TECH🪆*
+> *DEVELOPED BY ANYWAY TECH🪆*
 > *ULTRASONIC POWER AND SPEED ⚡
 ═══════════════════════
 
@@ -132,7 +132,7 @@ cmd({
 ⚙️ ■ antical
 ⚙️ ■ blocklist
 ─────────────────
-> powered by nova tech
+> powered by anyway tech
 `;
 
     await conn.sendMessage(
@@ -146,7 +146,7 @@ cmd({
           isForwarded: true,
           forwardedNewsletterMessageInfo: {
             newsletterJid: '120363382023564830@newsletter',
-            newsletterName: '𝗡𝗢𝗩𝗔 𝗫𝗠𝗗',
+            newsletterName: '𝘼𝙉𝙔𝙒𝘼𝙔 𝙓𝙈𝘿',
             serverMessageId: 143
           }
         }
