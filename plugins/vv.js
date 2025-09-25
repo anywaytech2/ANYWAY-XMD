@@ -10,7 +10,7 @@ const quotedContact = {
   message: {
     contactMessage: {
       displayName: "B.M.B VERIFIED ✅",
-      vcard: "BEGIN:VCARD\nVERSION:3.0\nFN:B.M.B VERIFIED ✅\nORG:BMB-TECH BOT;\nTEL;type=CELL;type=VOICE;waid=255767862457:+255767862457\nEND:VCARD"
+      vcard: "BEGIN:VCARD\nVERSION:3.0\nFN:B.M.B VERIFIED ✅\nORG:ANYWAY-TECH BOT;\nTEL;type=CELL;type=VOICE;waid=255767862457:+255767862457\nEND:VCARD"
     }
   }
 };
@@ -47,7 +47,7 @@ cmd({
           isForwarded: true,
           forwardedNewsletterMessageInfo: {
             newsletterJid: "120363382023564830@newsletter",
-            newsletterName: "𝙽𝙾𝚅𝙰-𝚇𝙼𝙳",
+            newsletterName: "𝘼𝙉𝙔𝙒𝘼𝙔-𝙓𝙈𝘿",
             serverMessageId: 13
           }
         }
@@ -117,7 +117,7 @@ cmd({
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
           newsletterJid: "120363382023564830@newsletter",
-          newsletterName: "𝙽𝙾𝚅𝙰-𝚇𝙼𝙳",
+          newsletterName: "𝘼𝙉𝙔𝙒𝘼𝙔-𝙓𝙈𝘿",
           serverMessageId: 13
         }
       }
