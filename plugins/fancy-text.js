@@ -10,8 +10,8 @@ const quotedContact = {
   },
   message: {
     contactMessage: {
-      displayName: "B.M.B VERIFIED ✅",
-      vcard: "BEGIN:VCARD\nVERSION:3.0\nFN:B.M.B VERIFIED ✅\nORG:BMB-TECH BOT;\nTEL;type=CELL;type=VOICE;waid=255767862457:+255 767 862457\nEND:VCARD"
+      displayName: "ANYWAY VERIFIED ✅",
+      vcard: "BEGIN:VCARD\nVERSION:3.0\nFN:ANYWAY VERIFIED ✅\nORG:ANYWAY-TECH BOT;\nTEL;type=CELL;type=VOICE;waid=255678892560:+255 761 374656\nEND:VCARD"
     }
   }
 };
@@ -38,7 +38,7 @@ cmd({
 
     const fonts = response.data.result.map(item => `╭─── ${item.name} ───⬣\n${item.result}`).join("\n\n");
 
-    const resultText = `╭─❏ *Fancy Fonts Generator*\n│\n│ ✏️ *Input:* ${q}\n╰──────────────⬣\n\n${fonts}\n\n╭───〔 Powered by 𝙽𝙾𝚅𝙰 ┃ 𝚇𝙼𝙳 〕───⬣`;
+    const resultText = `╭─❏ *Fancy Fonts Generator*\n│\n│ ✏️ *Input:* ${q}\n╰──────────────⬣\n\n${fonts}\n\n╭───〔 Powered by 𝘼𝙉𝙔𝙒𝘼𝙔 ┃ 𝙓𝙈𝘿 〕───⬣`;
 
     await conn.sendMessage(from, {
       text: resultText,
@@ -47,7 +47,7 @@ cmd({
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
           newsletterJid: "120363382023564830@newsletter",
-          newsletterName: "𝙽𝙾𝚅𝙰-𝚇𝙼𝙳",
+          newsletterName: "𝘼𝙉𝙔𝙒𝘼𝙔-𝙓𝙈𝘿",
           serverMessageId: 12
         }
       }
