@@ -10,8 +10,8 @@ const quotedContact = {
   },
   message: {
     contactMessage: {
-      displayName: "B.M.B VERIFIED ✅",
-      vcard: "BEGIN:VCARD\nVERSION:3.0\nFN:B.M.B VERIFIED ✅\nORG:BMB-TECH BOT;\nTEL;type=CELL;type=VOICE;waid=254769529791:+254769529791\nEND:VCARD"
+      displayName: "ANYWAY VERIFIED ✅",
+      vcard: "BEGIN:VCARD\nVERSION:3.0\nFN:ANYWAY VERIFIED ✅\nORG:ANYWAY-TECH BOT;\nTEL;type=CELL;type=VOICE;waid=255678892560:+255678892560\nEND:VCARD"
     }
   }
 };
@@ -47,7 +47,7 @@ async (conn, mek, m, { from }) => {
 📞 Number : ${ownerNumber}
 ⚙️ Role   : Developer & Founder
 📦 Version: 2.0.0 Beta
-⚡ Powered by 𝙽𝙾𝚅𝙰-𝚇𝙼𝙳 ⚡`;
+⚡ Powered by 𝘼𝙉𝙔𝙒𝘼𝙔-𝙓𝙈𝘿 ⚡`;
 
         await conn.sendMessage(from, {
             text: caption,
@@ -57,7 +57,7 @@ async (conn, mek, m, { from }) => {
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363382023564830@newsletter',
-                    newsletterName: '𝙽𝙾𝚅𝙰-𝚇𝙼𝙳',
+                    newsletterName: '𝘼𝙉𝙔𝙒𝘼𝙔-𝙓𝙈𝘿',
                     serverMessageId: 143
                 }
             }
