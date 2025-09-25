@@ -9,8 +9,8 @@ const quotedContact = {
   },
   message: {
     contactMessage: {
-      displayName: "B.M.B VERIFIED ✅",
-      vcard: "BEGIN:VCARD\nVERSION:3.0\nFN:B.M.B VERIFIED ✅\nORG:BMB-TECH BOT;\nTEL;type=CELL;type=VOICE;waid=255767862457:+255 767 862457\nEND:VCARD"
+      displayName: "ANYWAY VERIFIED ✅",
+      vcard: "BEGIN:VCARD\nVERSION:3.0\nFN:ANYWAY VERIFIED ✅\nORG:ANYWAY-TECH BOT;\nTEL;type=CELL;type=VOICE;waid=255678892560:+255 678 892569\nEND:VCARD"
     }
   }
 };
@@ -42,8 +42,8 @@ async (conn, mek, m, {
         forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: "120363382023564830@newsletter",
-          newsletterName: "𝙽𝙾𝚅𝙰-𝚇𝙼𝙳",
+          newsletterJid: "120363304536947506@newsletter",
+          newsletterName: "𝘼𝙉𝙔𝙒𝘼𝙔-𝙓𝙈𝘿",
           serverMessageId: 13
         }
       }
@@ -97,7 +97,7 @@ async (conn, mek, m, {
         case 'extendedTextMessage':
         default:
           return await conn.sendMessage(from, {
-            text: `╭───⧈ *HIDETAG MESSAGE* ⧈\n│\n│ ${m.quoted.text || '📨 Message'}\n│\n╰──⧈ 𝗡𝗢𝗩𝗔 𝗫𝗠𝗗`,
+            text: `╭───⧈ *HIDETAG MESSAGE* ⧈\n│\n│ ${m.quoted.text || '📨 Message'}\n│\n╰──⧈ 𝘼𝙉𝙔𝙒𝘼𝙔 𝙓𝙈𝘿`,
             ...mentionAll
           }, { quoted: quotedContact });
       }
@@ -105,7 +105,7 @@ async (conn, mek, m, {
 
     if (q) {
       return await conn.sendMessage(from, {
-        text: `╭───⧈ *HIDETAG MESSAGE* ⧈\n│\n│ ${q}\n│\n╰──⧈ 𝗡𝗢𝗩𝗔 𝗫𝗠𝗗`,
+        text: `╭───⧈ *HIDETAG MESSAGE* ⧈\n│\n│ ${q}\n│\n╰──⧈ 𝘼𝙉𝙔𝙒𝘼𝙔 𝙓𝙈𝘿`,
         ...mentionAll
       }, { quoted: quotedContact });
     }
