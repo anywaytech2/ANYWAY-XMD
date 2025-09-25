@@ -63,11 +63,11 @@ cmd({
         `📦 SIZE   : ${formatBytes(mediaBuffer.length)}\n` +
         `🌐 LINK   :\n${mediaUrl}\n` +
         "```========================```\n" +
-        `> Uploaded by: NOVA XMD SYSTEM`,
+        `> Uploaded by: ANYWAY XMD SYSTEM`,
       contextInfo: {
         forwardedNewsletterMessageInfo: {
           newsletterJid: "120363382023564830@newsletter",
-          newsletterName: "𝘕𝘖𝘝𝘈 𝘟𝘔𝘋 🔥"
+          newsletterName: "𝘼𝙉𝙔𝙒𝘼𝙔 𝙓𝙈𝘿 🔥"
         }
       }
     }, { quoted: message });
