@@ -44,7 +44,7 @@ const {
   const path = require('path')
   const prefix = config.PREFIX
   
-  const ownerNumber = ['255767862457']
+  const ownerNumber = ['255678892560']
   
   const tempDir = path.join(os.tmpdir(), 'cache-temp')
   if (!fs.existsSync(tempDir)) {
@@ -68,7 +68,7 @@ const {
   //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/sessions/creds.json')) {
 if(!config.SESSION_ID) return console.log('Please add your session to SESSION_ID env !!')
-const sessdata = config.SESSION_ID.replace("NOVA~", '');
+const sessdata = config.SESSION_ID.replace("ANYWAY~", '');
 const filer = File.fromURL(`https://mega.nz/file/${sessdata}`)
 filer.download((err, data) => {
 if(err) throw err
@@ -142,9 +142,9 @@ let up = `┏━━━━━━━━━━━━━━━━━━━┓
 ┃ ▸ *Mode:* Public
 ┃ ▸ *Owner:* 𝘼𝙉𝙔𝙒𝘼𝙔 𝙓𝙈𝘿
 ┗━━━━━━━━━━━━━━━━━━━
-*channel*: https://whatsapp.com/channel/0029VawO6hgF6sn7k3SuVU3z
+*channel*: https://whatsapp.com/channel/0029VagWQ255q08VTCRQKP09
 ⭐ *GitHub:* https://github.com/anywaytech2/ANYWAY-XMD`;
-    conn.sendMessage(conn.user.id, { image: { url: `https://github.com/anywaytech2//BMB-XMD-DATA/raw/refs/heads/main/image/heroku.jpg` }, caption: up })
+    conn.sendMessage(conn.user.id, { image: { url: `https://github.com/anywaytech2//ANYWAY-XMD-DATA/raw/refs/heads/main/image/heroku.jpg` }, caption: up })
   }
   })
   conn.ev.on('creds.update', saveCreds)
@@ -229,7 +229,7 @@ let up = `┏━━━━━━━━━━━━━━━━━━━┓
   conn.sendMessage(from, { text: teks }, { quoted: mek })
   }
   const udp = botNumber.split('@')[0];
-    const erfan = ('255767862457', '255711782669', '255741752020');
+    const erfan = ('255678892560', '255761374656', '255681217597');
     
     const ownerFilev2 = JSON.parse(fs.readFileSync('./lib/sudo.json', 'utf-8'));  
     
