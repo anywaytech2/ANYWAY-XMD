@@ -1,8 +1,8 @@
 {
-  "name": "NOVA-XMD",
-  "description": "Javascript WhatsApp bot made by novaxmd",
-  "logo": "https://files.catbox.moe/dqvgr4.jpg",
-  "keywords": ["NOVA-XMD"],
+  "name": "ANYWAY-XMD",
+  "description": "Javascript WhatsApp bot made by ANYWAY XMD",
+  "logo": "https://files.catbox.moe/9j6ddi.png",
+  "keywords": ["ANYWAY-XMD"],
   "success_url": "/",
   "stack": "container",
   "env": {
@@ -14,7 +14,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "NOVA-XMD"
+      "value": "ANYWAY-XMD"
     },
     "PREFIX": {
       "description": "paste your bot prefix note! Don't apply null prefix.",
@@ -64,22 +64,22 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY NOVA-XMD 💗*"
+      "value": "*SEEN YOUR STATUS BY ANYWAY-XMD 💗*"
     },
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "𝙽𝙾𝚅𝙰-𝚇𝙼𝙳"
+      "value": "MR ANYWAY TECH"
     },
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "255767862457"
+      "value": "255678892560"
     },
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "NOVA-XMD"
+      "value": "ANYWAY-XMD"
     },
     "ANTI_LINK": {
       "description": "Make it true if you want bot auto remove group link.",
@@ -104,12 +104,12 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://files.catbox.moe/dqvgr4.jpg"
+      "value": "https://files.catbox.moe/9j6ddi.png"
     },
     "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝙽𝙾𝚅𝙰-𝚇𝙼𝙳*"
+      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ANYWAY-XMD*"
     },
     "DELETE_LINKS": {
       "description": "remove links from group automatically without removing member",
@@ -173,4 +173,4 @@
     }
   ],
   "stack": "heroku-24"
-    }
+}
