@@ -30,11 +30,11 @@ async (conn, mek, m, { from, reply, botNumber, pushname }) => {
         const cpuCores = os.cpus().length;
         const arch = os.arch();
         const nodeVersion = process.version;
-        const botName = pushname || "BOVA-XMD BOT";
-        const owner = "nova-xmd";
+        const botName = pushname || "ANYWAY-XMD BOT";
+        const owner = "anyway-xmd";
 
         const status = `
-✨ NOVA XMD ALIVE 🚀
+✨ 𝗔𝗡𝗬𝗪𝗔𝗬-𝗫𝗠𝗗 ALIVE 🚀
 
 ╔═══[ BOT STATUS ]═══╗
 ┃ 🤖 Name     : ${botName}
@@ -53,8 +53,8 @@ async (conn, mek, m, { from, reply, botNumber, pushname }) => {
             forwardingScore: 999,
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
-                newsletterJid: "120363382023564830@newsletter",
-                newsletterName: "𝙽𝙾𝚅𝙰-𝚇𝙼𝙳",
+                newsletterJid: "120363304536947506@newsletter",
+                newsletterName: "𝗔𝗡𝗬𝗪𝗔𝗬-𝗫𝗠𝗗",
                 serverMessageId: 143
             }
         };
