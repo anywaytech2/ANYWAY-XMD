@@ -11,8 +11,8 @@ const quotedContact = {
   },
   message: {
     contactMessage: {
-      displayName: "B.M.B VERIFIED ✅",
-      vcard: "BEGIN:VCARD\nVERSION:3.0\nFN:B.M.B VERIFIED ✅\nORG:BMB-TECH BOT;\nTEL;type=CELL;type=VOICE;waid=254769529791:254769529791\nEND:VCARD"
+      displayName: "ANYWAY VERIFIED ✅",
+      vcard: "BEGIN:VCARD\nVERSION:3.0\nFN:ANYWAY VERIFIED ✅\nORG:ANYWAY-TECH BOT;\nTEL;type=CELL;type=VOICE;waid=255678892560:255678892560\nEND:VCARD"
     }
   }
 };
@@ -37,8 +37,8 @@ async (conn, mek, m, {
           forwardingScore: 999,
           isForwarded: true,
           forwardedNewsletterMessageInfo: {
-            newsletterJid: "120363382023564830@newsletter",
-            newsletterName: "𝙽𝙾𝚅𝙰-𝚇𝙼𝙳",
+            newsletterJid: "120363304536947506@newsletter",
+            newsletterName: "𝗔𝗡𝗬𝗪𝗔𝗬-𝗫𝗠𝗗",
             serverMessageId: 1
           }
         };
