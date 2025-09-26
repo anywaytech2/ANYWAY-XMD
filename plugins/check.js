@@ -38,8 +38,8 @@ cmd({
           forwardingScore: 999,
           isForwarded: true,
           forwardedNewsletterMessageInfo: {
-            newsletterJid: "120363382023564830@newsletter",
-            newsletterName: "𝙽𝙾𝚅𝙰-𝚇𝙼𝙳",
+            newsletterJid: "120363304536947506@newsletter",
+            newsletterName: "𝗔𝗡𝗬𝗪𝗔𝗬-𝗫𝗠𝗗",
             serverMessageId: 1
           }
         }
