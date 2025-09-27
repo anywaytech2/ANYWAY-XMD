@@ -39,7 +39,7 @@ cmd({
         await conn.sendMessage(from, {
             document: fs.readFileSync(nmfilect), 
             mimetype: 'text/vcard', 
-            fileName: 'nova xnd.vcf', 
+            fileName: 'anyway xnd.vcf', 
             caption: `\nDone saving.\nGroup Name: *${cmiggc.subject}*\nContacts: *${cmiggc.participants.length}*\n> ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝙽𝙾𝚅𝙰-𝚇𝙼𝙳`}, { quoted: mek });
 
         fs.unlinkSync(nmfilect); // Cleanup the file after sending
