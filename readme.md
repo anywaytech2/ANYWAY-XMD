@@ -15,7 +15,7 @@
 </div>
 
 <p align="center">
-  <img src="https://files.catbox.moe/9j6ddi.png" width="270" style="border-radius: 20px;" />
+  <img src="https://files.catbox.moe/rnd08u.png" width="270" style="border-radius: 20px;" />
 </p>
 
 ---
